@@ -2,7 +2,7 @@
   box-sizing : border
 }
 .footer {
-  background-color: #6495ED;
+  background-color: #148F77;
   color : #fff;
   height: 120px;
   padding : 50px;
@@ -23,5 +23,5 @@
 .footer-credits {
   text-align: center;
   padding: 5px;
-  background-color: #8A2BE2;
+  background-color: #EDACAC;
 }
