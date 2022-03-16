@@ -55,3 +55,80 @@ li {
   color: black;
   text-align: center;
 }
+html,
+body,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+form,
+input,
+div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "sans-serif";
+}
+
+li {
+  list-style: none;
+}
+
+/* Ketik code Anda dibawah */
+.header {
+  background-color: #148f77;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: right;
+  padding: 33px 20px;
+}
+.header-list li:hover {
+  background-color: #fff;
+  color: #148f77;
+}
+
+.wrapper {
+  padding-top: 160px;
+  padding-bottom: 160px;
+  background-image: url(img_banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  text-align: center;
+}
+.footer {
+  background-color: #148f77;
+  color: #fff;
+  height: 120px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+.footer-list {
+  float: right;
+}
+.footer-list li {
+  padding: 33px 20px;
+}
