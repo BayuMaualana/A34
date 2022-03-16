@@ -1,12 +1,9 @@
 @media (max-width: 880px) {
-
-	.footer .footer-logo,
-	.footer-list .footer-credits {
-		display: block;
-		width: 100%;
-		margin-bottom: 40px;
-		text-align: center;
-	}
-
-
+  .footer .footer-logo,
+  .footer-list .footer-credits {
+    display: block;
+    width: 100%;
+    margin-bottom: 40px;
+    text-align: center;
+  }
 }
