@@ -1,0 +1,27 @@
+* {
+  box-sizing : border
+}
+.footer {
+  background-color: #6495ED;
+  color : #fff;
+  height: 120px;
+  padding : 50px;
+}
+
+.footer-logo {
+  font-size : 32px;
+  float : left;
+}
+
+.footer-list {
+  float : right;
+  padding-bottom: 30px;
+}
+.footer-list li {
+  padding-bottom : 20px;
+}
+.footer-credits {
+  text-align: center;
+  padding: 5px;
+  background-color: #8A2BE2;
+}
